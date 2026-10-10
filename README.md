@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Anjali Matsagar 👋
 
-<!--
-**matsagaranjali4-lang/matsagaranjali4-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics and Computer Engineering Student | Aspiring Data Scientist
 
-Here are some ideas to get you started:
+🎓 Third-year Electronics and Computer Engineering student at Sanjivani College of Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Data Science, Data Analytics, Machine Learning, and Software Development.
+
+🌱 Currently learning Python, SQL, Data Science, and Web Development.
+
+🚀 Building projects to improve my technical and problem-solving skills.
+
+## 🛠️ Skills & Technologies
+
+- **Programming:** Python, Java
+- **Web Development:** HTML, CSS, JavaScript
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code, MySQL Workbench
+- **Currently Learning:** Data Science and Machine Learning
+
+## 📌 Featured Projects
+
+### ⚡ Smart City EV Charging Network Management
+A web-based project using Node.js and MySQL to manage EV charging network information.
+
+### 🍔 Food Ordering System
+A full-stack project using Java, HTML, CSS, JavaScript, and MySQL.
+
+## 🔗 Connect With Me
+
+- **GitHub:** [matsagaranjali4-lang](https://github.com/matsagaranjali4-lang)
+- **LinkedIn:** [Anjali Matsagar](https://linkedin.com/in/anjali-matsagar-47727733a)
